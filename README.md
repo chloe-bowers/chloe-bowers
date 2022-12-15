@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chloe
-- 👀 I’m interested in Frontend/UI design
-- 🌱 I’m currently learning React
+- 👀 I graduated in fullstack developement
+- 🌱 I’m most skilled in rails and react
 - 📫 How to reach me chlo_bo@live.com.au
 
 <!---
