@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chloe
-- 👀 I graduated in fullstack developement
+- 👀 I graduated in fullstack development
 - 🌱 I’m most skilled in rails and react
 - 📫 How to reach me chlo_bo@live.com.au
 
