@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chloe
 - 👀 I graduated in fullstack development
-- 🌱 I’m most skilled in rails and react
+- 🌱 I’m most skilled in react and javascript
 - 📫 How to reach me chlo.bo.corrado@gmail
 
 <!---
