@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chloe
 - 👀 I graduated in fullstack development
 - 🌱 I’m most skilled in rails and react
-- 📫 How to reach me chlo_bo@live.com.au
+- 📫 How to reach me chlo.bo.corrado@gmail
 
 <!---
 chloe-bowers/chloe-bowers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
